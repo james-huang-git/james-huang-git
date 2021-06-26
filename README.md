@@ -1,7 +1,6 @@
 - 👋 Hi, I’m James
 - 👀 I’m interested in all things coding
-- 🌱 I’m currently learning to write video games
-- 💞️ I’m looking to collaborate on any web & mobile apps
+- 💞️ I’m looking to collaborate on all things open source
 - 📫 Reach me @ james.jy.huang@hotmail.com
 
 <!---
